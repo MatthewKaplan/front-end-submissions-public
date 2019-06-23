@@ -88,9 +88,9 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 
 ## Matthew Kaplan
 
-* [Node Server Tutorial]()
-* [Annotated Express server file]()
-* [Promise Practice Exercises]()
+* [Node Server Tutorial](https://github.com/MatthewKaplan/ModFourPrework/tree/master/node%20server%20prework)
+* [Annotated Express server file](https://github.com/MatthewKaplan/ModFourPrework/tree/master/annotated%20server%20prework)
+* [Promise Practice Exercises](https://repl.it/@MatthewKaplan/PromisesPreWork)
 
 ## Max Silver
 
